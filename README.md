@@ -1,3 +1,5 @@
+> **Nota Importante:** Este repositório contém gráficos interativos feitos com Plotly. Para uma visualização completa e interativa do notebook, recomenda-se abri-lo através do [**nbviewer**](LINK_AQUI_DO_NBVIEWER). Uma versão estática dos gráficos está visível diretamente no notebook no GitHub para conveniência.
+
 # Desafio de Ciência de Dados - Indicium Lighthouse
 
 **Candidata:** Camila Siqueira Silva
