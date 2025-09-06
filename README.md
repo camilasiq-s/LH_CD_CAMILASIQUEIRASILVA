@@ -1,4 +1,7 @@
-> **Nota Importante:** Este repositório contém gráficos interativos feitos com Plotly. Para uma visualização completa e interativa do notebook, recomenda-se abri-lo através do [**nbviewer**](LINK_AQUI_DO_NBVIEWER). Uma versão estática dos gráficos está visível diretamente no notebook no GitHub para conveniência.
+> **Nota Importante:** Para uma visualização completa e interativa do notebook, incluindo os gráficos feitos com Plotly, por favor, utilize o seguinte link do Google Colab:
+>
+> ### **[Abrir Notebook Interativo no Google Colab](https://drive.google.com/file/d/1viTjHtwj9IOK_LzZzcMQBmyp7HlXpLDJ/view?usp=sharing)**
+
 
 # Desafio de Ciência de Dados - Indicium Lighthouse
 
