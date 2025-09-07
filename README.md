@@ -1,6 +1,6 @@
 > **Nota Importante:** Para uma visualização completa e interativa do notebook, incluindo os gráficos feitos com Plotly, por favor, utilize o seguinte link do Google Colab:
 >
-> ### **[Abrir Notebook Interativo no Google Colab](https://colab.research.google.com/github/camilasiq-s/LH_CD_CAMILASIQUEIRASILVA/blob/main/LH_CD_CAMILASIQUEIRASILVA.ipynb)**
+> ### **[Abrir Notebook Interativo no Google Colab](https://colab.research.google.com/drive/1V0-7tbU68EDZi1Yj_-iu0mHR_c5qRIwl?usp=drive_link)**
 
 
 # Desafio de Ciência de Dados - Indicium Lighthouse
